@@ -10,6 +10,7 @@
 
 ## Habilidades
 - Python
+- Docker
 - Node Red
 - Influx
 - Grafana
@@ -21,4 +22,4 @@
 - Git
 
 ## Experiencia
-Practicas en ACENS por DAM3 (Feb. 2025 - Jun. 2025)
+Desarrolador Backend y Frontend en ACENS(Feb. 2025 - Jun. 2025)
