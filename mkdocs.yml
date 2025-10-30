@@ -2,6 +2,9 @@ site_name: Mi pagina principal
 site_author: Asier Perez
 site_url: https://asierperez31.github.io
 
+theme:
+  name: material
+
 nav:
   - Inicio: index.md
   - Sobre mi: sobre-mi.md
