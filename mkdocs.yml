@@ -1,6 +1,6 @@
 site_name: Mi pagina principal
 site_author: Asier Perez
-site_url: https://AsierPerez31.github.io
+site_url: https://asierperez31.github.io
 
 nav:
   - Inicio: index.md
