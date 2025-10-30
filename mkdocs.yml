@@ -1,0 +1,11 @@
+site_name: Mi pagina principal
+site_author: Asier Perez
+site_url: https://AsierPerez31.github.io
+
+nav:
+  - Inicio: index.md
+  - Sobre mi: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/AsierPerez31/AsierPerez31.github.io
