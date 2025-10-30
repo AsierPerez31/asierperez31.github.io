@@ -12,3 +12,6 @@ nav:
   - Contacto: contacto.md
 
 repo_url: https://github.com/AsierPerez31/AsierPerez31.github.io
+
+markdown_extensions:
+  - attr_list
