@@ -22,4 +22,4 @@
 - Git
 
 ## Experiencia
-Desarrolador Backend y Frontend en ACENS(Feb. 2025 - Jun. 2025)
+Desarrolador Backend y Frontend en ACENS (Feb. 2025 - Jun. 2025)
