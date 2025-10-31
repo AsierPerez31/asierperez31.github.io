@@ -4,13 +4,13 @@ site_url: https://asierperez31.github.io
 
 theme:
   name: material
+  search:
+    enabled: false
 
 nav:
   - Inicio: index.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
-
-repo_url: https://github.com/AsierPerez31/AsierPerez31.github.io
 
 markdown_extensions:
   - attr_list
