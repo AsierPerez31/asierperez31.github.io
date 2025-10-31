@@ -1,6 +1,6 @@
 # ¡Hola! Soy Asier Perez
 
-![Texto alternativo](images/profile.jpg){ width=200px class="md-img-centered" }
+![Texto alternativo](images/profile.JPG){ width=200px class="md-img-centered" }
 
 Estudiante de Especializacion en IA y Big Data.
 
