@@ -7,7 +7,6 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Sobre mi: sobre-mi.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
 
