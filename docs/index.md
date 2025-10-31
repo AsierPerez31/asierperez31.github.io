@@ -8,7 +8,7 @@ Estudiante de Especializacion en IA y Big Data.
 Apasionado por la programación y el desarrollo de soluciones informáticas. Siempre en búsqueda de aprender nuevas tecnologías y mejorar la eficiencia del código.
 
 ## Curriculum
-[Descargar mi currículum](assets/curriculum.pdf){.md-button .md-button--primary target="_blank"}
+[Descargar mi currículum](assets/Curriculum_Asier_Perez.pdf){.md-button .md-button--primary target="_blank"}
 
 ## Educación 
 - IAB4 - Somorrostro (2025 - En progreso)
