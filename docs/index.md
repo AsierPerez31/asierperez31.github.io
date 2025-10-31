@@ -1,6 +1,6 @@
 # ¡Hola! Soy Asier Perez
 
-![Texto alternativo](images/profile.jpg){ width=200px class="md-img-rounded md-img-centered" }
+![Texto alternativo](images/profile.jpg){ width=200px class="md-img-centered" }
 
 Estudiante de Especializacion en IA y Big Data.
 
@@ -28,5 +28,5 @@ Apasionado por la programación y el desarrollo de soluciones informáticas. Sie
 - Git
 
 ## Experiencia
-Desarrolador Backend y Frontend en ACENS (Feb. 2025 - Jun. 2025):
-Creacion de un launcher de aplicaciones para uso interno con integracion de SQL y Angular con Java Spring.
+**Desarrolador Backend y Frontend en ACENS (Feb. 2025 - Jun. 2025):**  
+Creación de un launcher de aplicaciones para uso interno con integración de SQL  usando Angular y Java Spring.
