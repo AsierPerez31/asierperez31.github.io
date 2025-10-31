@@ -11,7 +11,7 @@ nav:
   - Contacto: contacto.md
 
 plugins:
-  - search: false  
+  - search: false
 
 markdown_extensions:
   - attr_list
